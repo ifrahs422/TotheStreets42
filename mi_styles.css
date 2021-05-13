@@ -93,6 +93,18 @@ article h2 {
    margin-bottom: 20px;
 }
 
+h3 {
+   color: rgb(219, 246, 233);
+   background-color: rgb(49, 50, 111);
+   font-family: Raleway;
+   font-weight: normal;
+   font-size: 1.7em;
+   letter-spacing: 0.03em;
+   line-height: 1.2em;
+   margin-bottom: 20px;
+   margin-top: -68px;
+}
+
 article p {
    line-height: 1.5;
    color: rgb(49, 50, 111);
